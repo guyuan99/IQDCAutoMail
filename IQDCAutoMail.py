@@ -61,7 +61,7 @@ from email.MIMEBase import MIMEBase
 from email import encoders
 
 SERVER = "10.18.210.246"
-FROM = "Yuan.Gu@foxconn.com"
+FROM = "Yuan.Gu@xxx.com"
 TO = ["xxxx@abc.com","sse-it@abc.com","john.markman@abc.com","xxxx@abc.com","xxxx@abc.com"] # must be a list
 #TO = ["Yuan.Gu@abc.com"]
 TOStringMaker=""
